@@ -1,5 +1,4 @@
-package main.baekjoon.사탕_게임;
-import java.util.*;
+package main.baekjoon.사탕_게임_3085;
 import java.io.*;
 
 public class 사탕_게임 {

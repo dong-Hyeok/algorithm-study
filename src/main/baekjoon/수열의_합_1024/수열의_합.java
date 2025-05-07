@@ -1,6 +1,6 @@
-package main.baekjoon.수열의_합;
+package main.baekjoon.수열의_합_1024;
 import java.io.*;
-import java.util.*;
+
 public class 수열의_합 {
 
     static BufferedReader br;

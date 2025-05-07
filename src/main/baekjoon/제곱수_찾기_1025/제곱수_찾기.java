@@ -1,4 +1,4 @@
-package main.baekjoon.제곱수_찾기;
+package main.baekjoon.제곱수_찾기_1025;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
