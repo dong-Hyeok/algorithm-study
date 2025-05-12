@@ -3,15 +3,13 @@ import java.io.*;
 import java.util.*;
 
 public class beakjoon_template {
-    static BufferedReader br;
-    static StringBuilder sb;
+//    static StringBuilder sb = new StringBuilder();
     public static void main(String[] args) throws Exception {
-        br = new BufferedReader(new InputStreamReader(System.in));
-        sb = new StringBuilder();
         init();
     }
 
     static void init() throws Exception {
-
+        Scanner sc = new Scanner(System.in);
+        String input_1 = sc.nextLine();
     }
 }
